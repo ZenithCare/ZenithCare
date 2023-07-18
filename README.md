@@ -44,7 +44,7 @@ For comprehensive documentation, visit Zenith.Care Documentation.
 
 **Contributing**:
 
-We welcome contributions! Please see our Contributing Guide for more details.
+We welcome contributions! Please see our [Contribution Guide](https://github.com/ZenithCare/ZenithCare/blob/main/contributing.md) for more details.
 
 **Reporting Bugs**:
 
